@@ -1,0 +1,48 @@
+{
+    "appKeys": {
+        "city": 1,
+        "temperature": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "Ravind Ramnath",
+    "longName": "Weather",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/arial.ttf",
+                "name": "MEDIUM_34",
+                "type": "font"
+            },
+            {
+                "file": "fonts/arial.ttf",
+                "name": "BIG_40",
+                "type": "font"
+            },
+            {
+                "file": "images/night.png",
+                "name": "IMAGE_NIGHT",
+                "type": "png"
+            },
+            {
+                "file": "images/day.png",
+                "name": "IMAGE_DAY",
+                "type": "png"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Weather",
+    "uuid": "9141b628-bc89-498e-b147-29087ab9b619",
+    "versionCode": 10,
+    "versionLabel": "2.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
